@@ -15,4 +15,8 @@
 > Esta linguagem é muito parecida com o Java, incrivelmente ele
 > me deu muito pouco trabalho, mas também não foi tão bem feito
 > quanto os outros, mas talvez seja o mais funcional entre eles.
+
   ![image](https://imgur.com/61LCGJT.png)
+
+- Lembrando que todos eles foram feitos em 1 dia e em média
+- no total levou tudo 4 horas, apenas faça bom proveito!
