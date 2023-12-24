@@ -1,4 +1,4 @@
-#SISTEMA DE INVENTÁRIOS
+# SISTEMA DE INVENTÁRIOS
 - Estes são 3 simples sistemas de inventários, na realidade eles não são bem trabalhados, o planejamento não é manter tais sistemas e sim mostrar como facilmente podem ser criados inventários, o desenvolvedor que souber mexer nisto e quiser implementar ou modificar pode fazer, mas por favor, se possível, dê créditos a este simples repositório.
 
 - Inventários feitos em Lua:
