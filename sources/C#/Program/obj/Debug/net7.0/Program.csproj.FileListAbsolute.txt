@@ -1,0 +1,14 @@
+C:\Projetos\C#\Aplicações\InventorySystem\Program\bin\Debug\net7.0\Program.exe
+C:\Projetos\C#\Aplicações\InventorySystem\Program\bin\Debug\net7.0\Program.deps.json
+C:\Projetos\C#\Aplicações\InventorySystem\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Projetos\C#\Aplicações\InventorySystem\Program\bin\Debug\net7.0\Program.dll
+C:\Projetos\C#\Aplicações\InventorySystem\Program\bin\Debug\net7.0\Program.pdb
+C:\Projetos\C#\Aplicações\InventorySystem\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\Aplicações\InventorySystem\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Projetos\C#\Aplicações\InventorySystem\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Projetos\C#\Aplicações\InventorySystem\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\Aplicações\InventorySystem\Program\obj\Debug\net7.0\Program.dll
+C:\Projetos\C#\Aplicações\InventorySystem\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Projetos\C#\Aplicações\InventorySystem\Program\obj\Debug\net7.0\Program.pdb
+C:\Projetos\C#\Aplicações\InventorySystem\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Projetos\C#\Aplicações\InventorySystem\Program\obj\Debug\net7.0\ref\Program.dll
