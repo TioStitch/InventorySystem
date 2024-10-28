@@ -5,6 +5,9 @@
 
 **Inventários disponíveis**
 > Ordem de qualidade
-- Java
-- C#
-- Lua
+
+Inventário feito em Java
+
+Inventário feito em C#
+
+Inventário feito em Lua
