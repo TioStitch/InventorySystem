@@ -1,5 +1,7 @@
 # SISTEMA DE INVENTÁRIOS
-- Estes são 3 simples sistemas de inventários, na realidade eles não são bem trabalhados, o planejamento não é manter tais sistemas e sim mostrar como facilmente podem ser criados inventários, o desenvolvedor que souber mexer nisto e quiser implementar ou modificar pode fazer, mas por favor, se possível, dê créditos a este simples repositório.
+> Estes códigos devem ser aprimorados!
+
+- Aqui estão um tipo de inventário simples para armazenar dados em cada tipo de linguagem de programação popular, eu decidi adicionar todas que eu tenho afinidade o suficiente para desenvolver este sistema.
 
 - Inventários feitos em Lua:
 > Devo dizer que este sistema de inventários programado em Lua
